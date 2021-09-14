@@ -1,5 +1,4 @@
 <?php
-echo "My HostName: " . gethostname(); 
-echo "\n"
-echo "This is Hydra Applications" 
+echo "My HostName: " . gethostname() ,"<br>"; 
+echo "This is Hydra Applications<br>";
 ?>
